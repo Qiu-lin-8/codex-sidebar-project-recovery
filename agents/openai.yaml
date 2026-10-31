@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Windows 界面恢复"
+  short_description: "恢复项目侧边栏、Chat 模式和中文界面"
+  default_prompt: "Use $codex-sidebar-project-recovery to safely diagnose and recover my Codex or ChatGPT Windows interface."
